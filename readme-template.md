@@ -3,7 +3,7 @@
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/<YOUR REPO>/awesome-<YOUR TOOL>/workflows/Lint%20Awesome%20List/badge.svg)
+# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/<YOUR GITHUB USER>/<YOUR REPO>/actions/workflows/lint.yaml/badge.svg)](https://github.com/<YOURE GITHUB USER>/<YOUR REPO>/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
@@ -43,7 +43,7 @@ A one line description of the product or tool. See [awesome-firebase](https://gi
 
 ## Follow
 
-<!-- list people worth following on social sites (twitter, linkedin, github, youtube etc.) -->
+<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
 Who else should we be following!?
 
@@ -54,7 +54,3 @@ Who else should we be following!?
 ### Contributors
 
 <!-- [Thanks goes to these contributors](https://github.com/TODO_YOUR_REPO_NAME_HERE/graphs/contributors)! -->
-
-## License
-
-[CC0 License](license)
